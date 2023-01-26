@@ -1,1 +1,0 @@
-##Chart Example for Applitools 
